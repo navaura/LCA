@@ -21,6 +21,7 @@ Local Cloud API provides cloud-like functionality without requiring external ser
 1. Clone the repository:
    ```bash
    git clone https://github.com/navaura/LCA.git
+   cd LCA
    chmod +x start.sh
    ```
 
