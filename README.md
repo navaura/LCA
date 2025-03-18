@@ -20,18 +20,18 @@ Local Cloud API provides cloud-like functionality without requiring external ser
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/local-cloud-api.git
-   cd local-cloud-api
+   git clone https://github.com/navaura/LCA.git
+   chmod +x setup.sh
    ```
 
 2. Make the setup script executable:
    ```bash
-   chmod +x setup_and_run.sh
+   chmod +x setup.sh
    ```
 
 3. Run the setup script:
    ```bash
-   ./setup_and_run.sh
+   ./setup.sh
    ```
 
 4. The script will automatically:
